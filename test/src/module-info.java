@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tojin
+ *
+ */
+module test {
+}  
